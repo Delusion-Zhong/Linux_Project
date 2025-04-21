@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/via/memory_pool/V2_puls/build",
+  "command": "/usr/bin/clang++  -I/home/via/memory_pool/V2_puls/inc -g -std=gnu++17 -o CMakeFiles/mempool_static.dir/src/CentralCache.cpp.o -c /home/via/memory_pool/V2_puls/src/CentralCache.cpp",
+  "file": "/home/via/memory_pool/V2_puls/src/CentralCache.cpp",
+  "output": "CMakeFiles/mempool_static.dir/src/CentralCache.cpp.o"
+},
+{
+  "directory": "/home/via/memory_pool/V2_puls/build",
+  "command": "/usr/bin/clang++  -I/home/via/memory_pool/V2_puls/inc -g -std=gnu++17 -o CMakeFiles/mempool_static.dir/src/PageCache.cpp.o -c /home/via/memory_pool/V2_puls/src/PageCache.cpp",
+  "file": "/home/via/memory_pool/V2_puls/src/PageCache.cpp",
+  "output": "CMakeFiles/mempool_static.dir/src/PageCache.cpp.o"
+},
+{
+  "directory": "/home/via/memory_pool/V2_puls/build",
+  "command": "/usr/bin/clang++  -I/home/via/memory_pool/V2_puls/inc -g -std=gnu++17 -o CMakeFiles/mempool_static.dir/src/ThreadCache.cpp.o -c /home/via/memory_pool/V2_puls/src/ThreadCache.cpp",
+  "file": "/home/via/memory_pool/V2_puls/src/ThreadCache.cpp",
+  "output": "CMakeFiles/mempool_static.dir/src/ThreadCache.cpp.o"
+},
+{
+  "directory": "/home/via/memory_pool/V2_puls/build",
+  "command": "/usr/bin/clang++  -I/home/via/memory_pool/V2_puls/inc -g -std=gnu++17 -o CMakeFiles/pressure_test.dir/test/pressure_test.cpp.o -c /home/via/memory_pool/V2_puls/test/pressure_test.cpp",
+  "file": "/home/via/memory_pool/V2_puls/test/pressure_test.cpp",
+  "output": "CMakeFiles/pressure_test.dir/test/pressure_test.cpp.o"
+}
+]

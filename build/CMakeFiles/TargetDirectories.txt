@@ -1,0 +1,9 @@
+/home/via/memory_pool/V2_puls/build/CMakeFiles/mempool_static.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/pressure_test.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/test.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/edit_cache.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/rebuild_cache.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/list_install_components.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/install.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/install/local.dir
+/home/via/memory_pool/V2_puls/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmempool_static.a CMakeFiles/mempool_static.dir/src/CentralCache.cpp.o CMakeFiles/mempool_static.dir/src/PageCache.cpp.o CMakeFiles/mempool_static.dir/src/ThreadCache.cpp.o
+/usr/bin/ranlib libmempool_static.a
